@@ -1,0 +1,9 @@
+.c{
+	color:red;
+	border:2px solid blue;
+	background-color: yellow;
+	border-radius:2px;
+	width:20%;
+	padding: 30px;
+	margin: auto;
+}
